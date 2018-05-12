@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## MARS/SON Microbiome and R workshop
+### May 14-18, 2018
+### Storrs Hall WW016 
 
 You can use the [editor on GitHub](https://github.com/uconn-mars/2018mars-son-workshop/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
