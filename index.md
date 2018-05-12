@@ -2,6 +2,7 @@
 ### May 14-18, 2018
 ### Storrs Hall WW016 
 
+Check upload [Introduction](https://github.com/uconn-mars/2018mars-son-workshop/blob/master/intro.communities.md)
 You can use the [editor on GitHub](https://github.com/uconn-mars/2018mars-son-workshop/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
