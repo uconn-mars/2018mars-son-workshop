@@ -6,7 +6,7 @@ Microbes control the world! And with advances in molecular techniques, esp. DNA 
 
 Basic Schedule. We will roughly follow this, but the exact amount of time we spend on each topic will be adjusted depending on the class.
 
-In class discussions and commands will be posted in an etherpad https://etherpad.net/p/uconn-microbiome2018May14
+In class discussions and commands will be posted in an etherpad <https://etherpad.net/p/uconn-microbiome2018May14>
 
 Day|Session|Topic
 ------|-------|--------
